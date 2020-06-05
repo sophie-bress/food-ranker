@@ -1,0 +1,66 @@
+/* styles.css 
+   Project: 
+   Author: 
+   Date: 
+	
+   Helpful links: 
+   	Web colors: 
+   		https://en.wikipedia.org/wiki/Web_colors#X11_color_names
+	Color picker tool:
+		https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool
+		http://colorpicker.com
+
+*/
+
+* {
+   box-sizing: border-box;
+}
+
+h1 {
+   margin-left: 25px;
+
+}
+
+.title {
+   margin-left: 25px;
+}
+
+.container{
+   margin: 10px;
+   padding: 10px;
+}
+
+.item {
+   padding: 10px;
+   margin: 3px;
+   width: 45%;
+}
+
+.clicker {
+   border-radius: 10px 10px 10px;
+   padding: 5px;
+   margin-left: 25px;
+}
+
+.resultsbox {
+   float: right;
+   height: 1691px;
+   width: 45%;
+   margin-bottom: 10px;
+}
+
+.newitem {
+   float: left;
+   width: 28%;
+   margin: 10px;
+   padding: 5px;
+}
+
+.newitem img {
+   border: 2px solid black;
+   margin: 8px;
+   width: 90%;
+}
+
+
+
